@@ -135,4 +135,4 @@ Pull Request를 통해 변경사항을 검토한 뒤
 # 🦁 참고
 
 서울여자대학교 멋쟁이사자처럼 14기  
-Git & GitHub OT 세션 자료 기반 정리
+- Git & GitHub OT 세션 자료 기반 정리
